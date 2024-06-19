@@ -62,17 +62,17 @@ List<Experience> experiences = [
 
 List<Formation> formations = [
   Formation(
-    imageName: 'assets/ca.png',
+    imageName: 'assets/mds.png',
     companyName: 'MyDigitalSchool',
     description: 'Bachelor 3 développeur web',
   ),
   Formation(
-    imageName: 'assets/vegetal.png',
+    imageName: 'assets/multimedia.png',
     companyName: 'Ecole Multimédia',
     description: 'Bachelor 2 développeur web',
   ),
   Formation(
-    imageName: 'assets/cavousplay.png',
+    imageName: 'assets/estin.png',
     companyName: 'ESTIN',
     description: 'Classe préparatoire école d\'ingénieur math info',
   ),
