@@ -1,6 +1,5 @@
-// widgets/experience_card.dart
 import 'package:flutter/material.dart';
-import '../data.dart'; // Assurez-vous que le chemin est correct
+import '../data.dart'; 
 
 class ExperienceCard extends StatelessWidget {
   final Experience experience;
