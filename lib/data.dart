@@ -88,7 +88,6 @@ List<String> bdd = [
 
 List<String> front = [
   'assets/competences/html.png',
-  'assets/competences/css.png',
   'assets/competences/js.png',
   'assets/competences/react.png',
   'assets/competences/sass.png',
@@ -96,8 +95,8 @@ List<String> front = [
 
 List<String> back = [
   'assets/competences/nodejs.png',
-  'assets/competences/php.png',
-  'assets/competences/python.png',
+  'assets/competences/php.jpeg',
+  'assets/competences/python.jpeg',
 ];
 
 List<String> mobile = [
