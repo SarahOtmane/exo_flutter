@@ -13,11 +13,6 @@ class MainApp extends StatelessWidget {
     return MaterialApp(
       // Pour enlever la barre de debug
       debugShowCheckedModeBanner: false,
-      // theme: ThemeData(
-      //     fontFamily: "PTSerif",
-      //     brightness: Brightness.dark,
-      //     scaffoldBackgroundColor: Colors.black,
-      //     primarySwatch: Colors.teal),
       home: Scaffold(
         body: Center(
           child: DeviceScreen(),
