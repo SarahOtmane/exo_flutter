@@ -16,6 +16,18 @@ class Experience {
   });
 }
 
+class Formation {
+  final String imageName;
+  final String companyName;
+  final String description;
+
+  Formation({
+    required this.imageName,
+    required this.companyName,
+    required this.description,
+  });
+}
+
 List<Experience> experiences = [
   Experience(
     imageName: 'assets/ca.png',
@@ -44,5 +56,24 @@ List<Experience> experiences = [
     role: 'Deveeloppeuse FullStack',
     duration: '(2023 - 2024)',
     description: 'Alternance développeuse fullstack',
+  ),
+];
+
+
+List<Formation> formations = [
+  Formation(
+    imageName: 'assets/ca.png',
+    companyName: 'MyDigitalSchool',
+    description: 'Bachelor 3 développeur web',
+  ),
+  Formation(
+    imageName: 'assets/vegetal.png',
+    companyName: 'Ecole Multimédia',
+    description: 'Bachelor 2 développeur web',
+  ),
+  Formation(
+    imageName: 'assets/cavousplay.png',
+    companyName: 'ESTIN',
+    description: 'Classe préparatoire école d\'ingénieur math info',
   ),
 ];
