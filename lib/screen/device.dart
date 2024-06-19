@@ -23,10 +23,7 @@ class _DeviceScreenState extends State<DeviceScreen> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text("Bienvenue"),
-      ),
+      return Scaffold(
       body: _screenList[_currentScreen],
       bottomNavigationBar: BottomNavigationBar(
           type: BottomNavigationBarType.fixed,
