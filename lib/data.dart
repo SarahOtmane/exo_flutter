@@ -88,6 +88,7 @@ List<String> bdd = [
 
 List<String> front = [
   'assets/competences/html.png',
+  'assets/competences/css.png',
   'assets/competences/js.png',
   'assets/competences/react.png',
   'assets/competences/sass.png',
