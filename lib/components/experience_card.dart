@@ -19,7 +19,7 @@ class ExperienceCard extends StatelessWidget {
         children: <Widget>[
           Image.asset(
             experience.imageName,
-            width: 50,
+            width: 60,
             height: 50,
             fit: BoxFit.cover,
           ),
