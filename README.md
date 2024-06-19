@@ -1,3 +1,7 @@
-# cv_flutter
+# Projet flutter
 
-A new Flutter project.
+Cv intéractif réalisé en flutter
+
+### Dépendances 
+- flutter_lints
+- font_awesome_flutter
