@@ -77,3 +77,30 @@ List<Formation> formations = [
     description: 'Classe préparatoire école d\'ingénieur math info',
   ),
 ];
+
+
+
+List<String> bdd = [
+  'assets/competences/firebase.png',
+  'assets/competences/mongodb.png',
+  'assets/competences/mysql.png',
+];
+
+List<String> front = [
+  'assets/competences/html.png',
+  'assets/competences/css.png',
+  'assets/competences/js.png',
+  'assets/competences/react.png',
+  'assets/competences/sass.png',
+];
+
+List<String> back = [
+  'assets/competences/nodejs.png',
+  'assets/competences/php.png',
+  'assets/competences/python.png',
+];
+
+List<String> mobile = [
+  'assets/competences/flutter.png',
+  'assets/competences/native.png',
+];
