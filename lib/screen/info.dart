@@ -9,7 +9,7 @@ class InfoScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Compétences'),
+        title: const Text('Info +'),
         backgroundColor: Colors.grey,
         actions: [
           IconButton(
