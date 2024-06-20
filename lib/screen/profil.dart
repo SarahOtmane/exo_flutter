@@ -99,7 +99,7 @@ class ProfilScreen extends StatelessWidget {
                     Padding(
                       padding: const EdgeInsets.all(8.0),
                       child: Text(
-                          'Lorem ipsum dolor sit amet consectetur adipiscing elit. Labore nihil odio iste nisi harum excepturi eaque, id dignissimos libero sit error est consequuntur accusamus adipisci animi delectus tempora inventore quod.'),
+                          'Lorem ipsum dolor sit amet consectetur adipiscing elit.'),
                     ),
                   ]),
                 ],
